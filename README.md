@@ -1,5 +1,7 @@
 # phonecall
 
+<a href="https://opencode.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://opencode.ai/brand/badges/opencode-built-with-g-dark-20.svg"><img alt="Built with OpenCode" src="https://opencode.ai/brand/badges/opencode-built-with-g-light-20.svg" height="20" /></picture></a>
+
 Let your agent make phone calls. A Grok Voice agent places the call through Twilio and sounds like a person. When it needs a decision, it asks your agent mid-call and keeps the line open. When the call ends, you get a summary and the full transcript.
 
 ![How an agent makes a phone call](media/how-it-works.png)
